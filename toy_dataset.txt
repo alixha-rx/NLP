@@ -1,0 +1,4 @@
+'Patient A is currently experiencing unstable housing conditions. They are homeless.'
+'Patient B has stable housing and is not homeless.'
+'Patient C used to be homeless but is no longer homeless.'
+'Patient D is not experiencing housing insecurity and is not homeless.'
